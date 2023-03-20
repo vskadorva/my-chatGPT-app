@@ -1,0 +1,25 @@
+{
+  "name": "my-chatgpt-app",
+  "version": "1.0.0",
+  "description": "NodeJS app using ChatGPT API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vskadorva/my-chatGPT-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vskadorva/my-chatGPT-app/issues"
+  },
+  "homepage": "https://github.com/vskadorva/my-chatGPT-app#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
